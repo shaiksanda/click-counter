@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.counter {
+  color: #c20a72;
+  font-family: 'Roboto';
+}
+
+.button {
+  background-color: brown;
+  color: bisque;
+  width: 100px;
+  height: 30px;
+  border-width: 0px;
+  border-radius: 6px;
+  cursor: pointer;
+  outline: none;
+}
